@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457121024706",
+    "project_id": "rizki-467b3",
+    "storage_bucket": "rizki-467b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457121024706:android:fe28bc9fdc2adc561ac95b",
+        "android_client_info": {
+          "package_name": "com.example.company_profile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3RDMghHg_pRiCm74YoHIB79-5mFjqHYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
